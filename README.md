@@ -2,6 +2,7 @@
 ## A simple yet effective pipeline for face recognition on videos
 
 #### Demo
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/79300456/173556412-420bfe50-1325-4409-bb9e-b3552745df5e.gif)
 #### Usage
 In  order to use this package you need to follow these steps one by one:
 1. Make a conda env 
